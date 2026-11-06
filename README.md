@@ -1,72 +1,29 @@
-<h1 align="center">Hi 👋, I'm SATHVIC</h1>
+# Hi 👋, I'm Sathvic
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=1st+Year+AIML+Student;Learning+Python+%26+C;Building+Innovative+Projects" alt="Typing SVG" />
-</p>
+### A passionate AIML student from India 🇮🇳
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SathvicBM&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/SathvicBM?style=social" alt="Followers" />
-</p>
+[![SathvicBM](https://komarev.com/ghpvc/?username=SathvicBM&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/SathvicBM)
 
----
+- 🎓 I'm a **1st year AIML student at BMSIT**
 
-## 🎓 About Me
+- 🌱 I'm currently learning **Python** and **C**
 
-| | |
-|---|---|
-| 🏫 **College** | BMSIT |
-| 📚 **Branch** | AIML (1st Year) |
-| 🌱 **Learning** | Python, C |
-| 🎯 **Goal** | Building innovative projects |
-| 📫 **Contact** | sathvicbusiness@gmail.com |
+- 🚀 I love **building innovative projects**
 
----
+- 💬 Ask me about **Python, C and Artificial Intelligence**
 
-## 🛠️ Skills
+- 📫 Reach out to me at **sathvicbusiness@gmail.com**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode" alt="Skills" />
-</p>
+### GitHub Stats:
 
-| Skill | Level |
-|-------|-------|
-| 🐍 Python | ![Python](https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white) |
-| ⚙️ C | ![C](https://img.shields.io/badge/C-Learning-A8B9CC?logo=c&logoColor=black) |
-| 🤖 AI / ML | ![AI/ML](https://img.shields.io/badge/AI%2FML-Getting%20Started-orange) |
+[![SathvicBM](https://github-readme-stats.vercel.app/api?username=SathvicBM&show_icons=true&locale=en)](https://github.com/SathvicBM)
 
----
+[![SathvicBM](https://github-readme-streak-stats.herokuapp.com/?user=SathvicBM&)](https://github.com/SathvicBM)
 
-## 🗺️ My Journey
+### Languages and Tools:
 
-```mermaid
-flowchart LR
-    A[Learn Python and C] --> B[Practice Small Programs]
-    B --> C[Build First Project]
-    C --> D[Explore AI and ML]
-    D --> E[Innovative Projects]
-```
-
----
-
-## 📌 Current Focus
-
-- [x] Created my GitHub account
-- [ ] Learn Python and C basics
-- [ ] Upload my first project
-- [ ] Build something innovative
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:sathvicbusiness@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/SathvicBM">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">⭐ Thanks for visiting my profile!</p>
+[![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/SathvicBM)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
