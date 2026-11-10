@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="https://github.com/SathvicBM">
-    <img src="https://komarev.com/ghpvc/?username=SathvicBM&label=Profile%20Views&color=00F2FE&style=for-the-badge&logoColor=white" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=SathvicBM&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
@@ -75,8 +75,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31,43&height=90&section=footer" width="100%"/>
 
 </div>
-
-
-
-
-
