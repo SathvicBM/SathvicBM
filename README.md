@@ -24,34 +24,13 @@
 
 ---
 
-### 🧠 `sathvic.py`
+### 🚀 About Me
 
-```python
-class Sathvic:
-    def __init__(self):
-        self.name = "Sathvic"
-        self.role = "AIML Student & Aspiring AI Engineer"
-        self.college = "BMS Institute of Technology and Management (BMSIT)"
-        self.location = "Bengaluru, India 🇮🇳"
-        self.current_focus = ["Neural Networks", "Data Structures", "Open Source"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Always excited to collaborate on AI and software projects.")
-
-me = Sathvic()
-me.say_hi()
-```
-
----
-
-### 🚀 What I'm Up To
-
-- 🎓 **Academics**: 1st year Artificial Intelligence & Machine Learning student at **BMSIT**.
-- 🌱 **Learning Curve**: Mastering **Python**, modern **C**, Data Structures, and foundational Mathematics for Machine Learning.
-- 💡 **Passion**: Designing intelligent systems that bridge clean software engineering with cutting-edge AI.
-- 🎯 **Goals**: Contributing to open-source ML frameworks and launching impactful tech products.
-- 💬 **Ask me about**: Python, C, algorithms, or the future of Artificial Intelligence!
-- 📫 **Direct Line**: Drop an email at [`sathvicbusiness@gmail.com`](mailto:sathvicbusiness@gmail.com).
+- 🎓 **Academics**: 1st year Artificial Intelligence & Machine Learning student at **BMSIT** (BMS Institute of Technology and Management).
+- 🌱 **Currently Learning**: **Python**, **C**, Data Structures, and Core Math for Machine Learning.
+- 💡 **Interests**: Exploring Artificial Intelligence, Neural Networks, and building practical software solutions.
+- 💬 **Ask Me About**: Python, C programming, Algorithms, and AI fundamentals.
+- 📫 **Get in Touch**: Drop a line at [`sathvicbusiness@gmail.com`](mailto:sathvicbusiness@gmail.com).
 
 ---
 
@@ -59,14 +38,14 @@ me.say_hi()
 
 <div align="center">
 
-#### 💻 Languages & Core
+#### 💻 Languages & Systems
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,bash" alt="Languages" />
 </a>
 
 <br/>
 
-#### 🤖 AI, ML & Data Science (In Progress & Exploring)
+#### 🤖 AI, ML & Data Science (Exploring)
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="AI & ML" />
 </a>
@@ -106,14 +85,7 @@ me.say_hi()
 
 </div>
 
----
-
-### ⚡ Quick Byte
-
-```text
-"The question of whether machines can think is about as relevant as 
-whether submarines can swim." — Edsger W. Dijkstra
-```
+<br/>
 
 <div align="center">
 
