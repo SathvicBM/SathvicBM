@@ -1,18 +1,20 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31,43&height=200&section=header&text=I%20am%20Sathvic&fontSize=46&fontAlignY=38&animation=twinkling&desc=A%20passionate%20AIML%20student%20from%20India%20🇮🇳&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31,43&height=210&section=header&text=Hey%20there,%20I%20am%20Sathvic%20👋&fontSize=42&fontAlignY=38&animation=twinkling&desc=A%20passionate%20AIML%20student%20from%20India%20🇮🇳&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/SathvicBM">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=1st+year+AIML+student+at+BMSIT;Learning+Python+and+C;Building+innovative+projects" alt="Typing SVG" />
 </a>
 
-<br/>
-
-[![SathvicBM](https://komarev.com/ghpvc/?username=SathvicBM&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/SathvicBM)
-
 </div>
+
+<p align="left">
+  <a href="https://github.com/SathvicBM">
+    <img src="https://komarev.com/ghpvc/?username=SathvicBM&label=Profile%20Views&color=00F2FE&style=for-the-badge&logoColor=white" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
@@ -54,13 +56,13 @@
 
 <p align="center">
   <a href="https://github.com/SathvicBM">
-    <img src="https://github-readme-stats.vercel.app/api?username=SathvicBM&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Sathvic's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SathvicBM&show_icons=true&locale=en&bg_color=0d1117&title_color=00f2fe&icon_color=ff0844&text_color=ffffff&border_color=00f2fe&hide_border=false" alt="Sathvic's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/SathvicBM">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvicBM&theme=tokyonight&hide_border=true" alt="Sathvic's Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvicBM&background=0D1117&stroke=00F2FE&ring=FF0844&fire=FF0844&currStreakNum=00F2FE&sideNums=FFFFFF&currStreakLabel=00F2FE&sideLabels=A0AEC0&dates=A0AEC0&border=00F2FE&hide_border=false" alt="Sathvic's Streak Stats" />
   </a>
 </p>
 
@@ -73,3 +75,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31,43&height=90&section=footer" width="100%"/>
 
 </div>
+
+
+
+
+
